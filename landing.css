@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 32px;
+    margin: 0;
+  }
+  
+  section {
+    padding: 40px 0;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 28px;
+  }
+  
+  .about p,
+  .features p {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .feature {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 2.5%;
+  }
+  
+  .testimonial {
+    display: inline-block;
+    width: 45%;
+    margin: 0 2.5%;
+  }
+  
+  .testimonial blockquote {
+    border-left: 4px solid #333;
+    padding-left: 20px;
+  }
+  
+  .testimonial blockquote p {
+    font-style: italic;
+    margin: 0;
+  }
+  
+  .testimonial blockquote cite {
+    font-weight: bold;
+  }
+  
+  .contact form {
+    text-align: left;
+  }
+  
+  .contact label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .contact input,
+  .contact textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .contact button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .social-media {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+  
+  .social-media li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .social-media a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .social-media i {
+    font-size: 24px;
+  }
+  
